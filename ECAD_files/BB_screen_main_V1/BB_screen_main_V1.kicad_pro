@@ -730,7 +730,7 @@
       {
         "filename": "BB_screen_main_V1.kicad_sch",
         "name": "BB_screen_main_V1",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "ebdc5608-8877-4853-8afc-12eb95545037"
       }
     ],
     "used_designators": "",
@@ -739,7 +739,7 @@
   "sheets": [
     [
       "ebdc5608-8877-4853-8afc-12eb95545037",
-      "Root"
+      "BB_screen_main_V1"
     ],
     [
       "ce50e6a2-9e83-41d6-b375-67021e7fdd69",

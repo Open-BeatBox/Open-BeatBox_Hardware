@@ -259,7 +259,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "v1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -722,7 +722,7 @@
         "uuid": "ebdc5608-8877-4853-8afc-12eb95545037"
       }
     ],
-    "used_designators": "H105",
+    "used_designators": "H105,R209-210,R316,#PWR228,#PWR230",
     "variants": []
   },
   "sheets": [

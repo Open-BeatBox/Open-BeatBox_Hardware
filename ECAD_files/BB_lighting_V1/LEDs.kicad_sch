@@ -4,6 +4,14 @@
 	(generator_version "10.0")
 	(uuid "c52d5cb0-c328-4de3-bbf3-20372842d425")
 	(paper "A4")
+	(title_block
+		(title "BB_lighting")
+		(date "2024-03-21")
+		(rev "v1")
+		(company "ICM - Paris Brain Institute")
+		(comment 1 "rnd@icm-institute.org")
+		(comment 2 "RnD Unit")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers

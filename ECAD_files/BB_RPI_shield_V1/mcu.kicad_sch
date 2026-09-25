@@ -13070,7 +13070,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33k"
+		(property "Value" "100k"
 			(at 151.13 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13414,7 +13414,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f0827853-7f17-4441-8de3-363e22cbfa95")
 		(property "Reference" "R209"

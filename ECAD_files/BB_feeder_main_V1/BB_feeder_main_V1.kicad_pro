@@ -255,7 +255,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "v1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -718,7 +718,7 @@
       {
         "filename": "BB_feeder_main_V1.kicad_sch",
         "name": "BB_feeder_main_V1",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "e187e0e6-61da-4d1f-b870-9321b3f7e585"
       }
     ],
     "used_designators": "",
@@ -727,7 +727,7 @@
   "sheets": [
     [
       "e187e0e6-61da-4d1f-b870-9321b3f7e585",
-      "Root"
+      "BB_feeder_main_V1"
     ],
     [
       "e0e74fef-3790-4ee8-8c56-ab77c7d1e46c",

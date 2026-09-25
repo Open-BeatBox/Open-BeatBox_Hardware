@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "10.0")
 	(uuid "ebdc5608-8877-4853-8afc-12eb95545037")
 	(paper "A4")
 	(lib_symbols
@@ -12,8 +12,12 @@
 			(exclude_from_sim yes)
 			(in_bom no)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "H"
 				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -22,6 +26,8 @@
 			)
 			(property "Value" "MountingHole"
 				(at 0 3.175 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -30,47 +36,57 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
-			(property "Datasheet" "~"
+			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Mounting Hole without connection"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_keywords" "mounting hole"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "MountingHole*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "MountingHole_0_1"
@@ -86,6 +102,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 	)
 	(junction
@@ -198,14 +215,18 @@
 		(lib_id "Mechanical:MountingHole")
 		(at 48.26 137.16 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "727c954b-c363-48db-a83d-2916a28239b4")
 		(property "Reference" "H102"
 			(at 50.8 135.8899 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -215,6 +236,8 @@
 		)
 		(property "Value" "MountingHole"
 			(at 50.8 138.4299 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -224,29 +247,35 @@
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_TopBottom"
 			(at 48.26 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 48.26 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
 			(at 48.26 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(instances
@@ -262,14 +291,18 @@
 		(lib_id "Mechanical:MountingHole")
 		(at 48.26 129.54 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a645ed4c-e871-40ba-9ea9-d170df46e13d")
 		(property "Reference" "H101"
 			(at 50.8 128.2699 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -279,6 +312,8 @@
 		)
 		(property "Value" "MountingHole"
 			(at 50.8 130.8099 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -288,29 +323,35 @@
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_TopBottom"
 			(at 48.26 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 48.26 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
 			(at 48.26 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(instances
@@ -326,14 +367,18 @@
 		(lib_id "Mechanical:MountingHole")
 		(at 48.26 144.78 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d35cb1da-edac-479c-8540-66a0dd341aba")
 		(property "Reference" "H103"
 			(at 50.8 143.5099 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -343,6 +388,8 @@
 		)
 		(property "Value" "MountingHole"
 			(at 50.8 146.0499 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -352,29 +399,35 @@
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_TopBottom"
 			(at 48.26 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 48.26 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
 			(at 48.26 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(instances
@@ -389,17 +442,23 @@
 	(sheet
 		(at 135.89 57.15)
 		(size 36.83 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "67417c11-5689-4215-9aec-880b2c224ee8")
 		(property "Sheetname" "MCU"
 			(at 135.89 56.4384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -409,6 +468,8 @@
 		)
 		(property "Sheetfile" "MCU.kicad_sch"
 			(at 135.89 93.2946 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -418,63 +479,63 @@
 		)
 		(pin "FLASH{QUAD-SPI}" bidirectional
 			(at 156.21 92.71 270)
+			(uuid "a499429b-48f8-4614-a709-f0575de6bf06")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "a499429b-48f8-4614-a709-f0575de6bf06")
 		)
 		(pin "CAN{SPI1+GPIO}" bidirectional
 			(at 135.89 60.96 180)
+			(uuid "57c3ac93-143d-4f74-add6-c734d556febf")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "57c3ac93-143d-4f74-add6-c734d556febf")
 		)
 		(pin "D[0..7]" output
 			(at 172.72 60.96 0)
+			(uuid "0120946b-5dc8-4508-b2bd-ec07f3605c14")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0120946b-5dc8-4508-b2bd-ec07f3605c14")
 		)
 		(pin "LCD{MISC}" bidirectional
 			(at 172.72 64.77 0)
+			(uuid "0f59ece7-af75-45a6-ae17-7b86710e448c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0f59ece7-af75-45a6-ae17-7b86710e448c")
 		)
 		(pin "backlight" output
 			(at 172.72 68.58 0)
+			(uuid "c4fcf9ee-3638-4ff9-8ad1-247dcd91a734")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c4fcf9ee-3638-4ff9-8ad1-247dcd91a734")
 		)
 		(pin "CCS" output
 			(at 172.72 72.39 0)
+			(uuid "013e03b3-5a39-4704-a4c6-c01ea501e8d5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "013e03b3-5a39-4704-a4c6-c01ea501e8d5")
 		)
 		(instances
 			(project "BB_screen_main_V1"
@@ -487,17 +548,23 @@
 	(sheet
 		(at 196.85 57.15)
 		(size 31.75 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "b2607594-1df3-4d7f-bf53-4e4d2f7b118f")
 		(property "Sheetname" "LCD"
 			(at 196.85 56.4384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -507,6 +574,8 @@
 		)
 		(property "Sheetfile" "LCD.kicad_sch"
 			(at 196.85 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -516,53 +585,53 @@
 		)
 		(pin "D[0..7]" input
 			(at 196.85 60.96 180)
+			(uuid "3a7c97b7-e700-4228-b5bf-b0f949a6da0a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "3a7c97b7-e700-4228-b5bf-b0f949a6da0a")
 		)
 		(pin "LCD{MISC}" bidirectional
 			(at 196.85 64.77 180)
+			(uuid "16ec109f-11f9-4d26-b4e2-a2333a056b87")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "16ec109f-11f9-4d26-b4e2-a2333a056b87")
 		)
 		(pin "backlight" input
 			(at 196.85 68.58 180)
+			(uuid "eb5fdced-e8dc-47c8-a474-a5d06cc43bd1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "eb5fdced-e8dc-47c8-a474-a5d06cc43bd1")
 		)
 		(pin "CAN{SPI1+GPIO}" bidirectional
 			(at 213.36 57.15 90)
+			(uuid "ffafae33-9176-46a2-a5fb-2918a36f9c01")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ffafae33-9176-46a2-a5fb-2918a36f9c01")
 		)
 		(pin "CCS" input
 			(at 196.85 72.39 180)
+			(uuid "1c4dbbad-d2c6-4f3f-9e37-fcdfa1b54a30")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "1c4dbbad-d2c6-4f3f-9e37-fcdfa1b54a30")
 		)
 		(instances
 			(project "BB_screen_main_V1"
@@ -575,17 +644,23 @@
 	(sheet
 		(at 85.09 57.15)
 		(size 26.67 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "bb155c7a-f1fb-4fa9-983c-6d08304a4cf3")
 		(property "Sheetname" "CAN bus"
 			(at 85.09 56.4384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -595,6 +670,8 @@
 		)
 		(property "Sheetfile" "CAN_bus.kicad_sch"
 			(at 85.09 78.0546 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -604,13 +681,13 @@
 		)
 		(pin "CAN{SPI1+GPIO}" bidirectional
 			(at 111.76 60.96 0)
+			(uuid "55e4428f-36c2-48ed-ac0a-6e7bdabbadd4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "55e4428f-36c2-48ed-ac0a-6e7bdabbadd4")
 		)
 		(instances
 			(project "BB_screen_main_V1"
@@ -623,17 +700,23 @@
 	(sheet
 		(at 138.43 111.76)
 		(size 27.94 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "ce50e6a2-9e83-41d6-b375-67021e7fdd69")
 		(property "Sheetname" "Memory"
 			(at 137.7184 138.43 90)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -643,6 +726,8 @@
 		)
 		(property "Sheetfile" "Memory.kicad_sch"
 			(at 166.9546 138.43 90)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -652,13 +737,13 @@
 		)
 		(pin "FLASH{QUAD-SPI}" bidirectional
 			(at 156.21 111.76 90)
+			(uuid "308ceb78-37d4-47f5-9f01-ca06e2fca570")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "308ceb78-37d4-47f5-9f01-ca06e2fca570")
 		)
 		(instances
 			(project "BB_screen_main_V1"
@@ -673,4 +758,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )

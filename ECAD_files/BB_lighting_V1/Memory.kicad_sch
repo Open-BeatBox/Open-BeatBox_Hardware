@@ -5,7 +5,7 @@
 	(uuid "d03381a1-fad6-4a0b-b651-51fdfbcc390e")
 	(paper "A4")
 	(title_block
-		(title "BB_nosepoke")
+		(title "BB_lighting")
 		(date "2024-03-21")
 		(rev "v1")
 		(company "ICM - Paris Brain Institute")
