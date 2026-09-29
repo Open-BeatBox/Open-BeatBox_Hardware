@@ -5,12 +5,12 @@ apparatus.
 
 ## Contents
 
-- `CAD_files/` — mechanical CAD, two hardware generations, **V2** and **V3**.
-- `ECAD_files/` — KiCad electronics for the V3 modules.
+- `mechanical/` — 3D models and production files (3D printing, laser cutting) for the enclosure and modules, two hardware generations, **V2** and **V3**.
+- `electronics/` — KiCad circuit-board designs and manufacturing files for the V3 modules.
 
-## `CAD_files/`
+## `mechanical/`
 
-### `CAD_files/V2/`
+### `mechanical/V2/`
 
 SolidWorks sources (`.SLDPRT` parts, `.SLDASM` assemblies), reference renders
 (`.png`) and one drawing (`cage_1feeder_2screens.pdf`), organised per module:
@@ -30,7 +30,7 @@ carry the intended material and thickness, e.g. `..._3mm_clear.DXF`), and
 sliced `.gcode` whose filenames indicate a Creality K1 Max, 0.4 mm nozzle and
 Hyper PLA.
 
-### `CAD_files/V3/`
+### `mechanical/V3/`
 
 Neutral-format sources per module — `feeder/`, `lighting/`, `main/` (Raspberry
 Pi shield), `screen/`, `tunnel/` — each with a `.STEP` file, a `.zip` archive
@@ -43,10 +43,10 @@ one `.DXF` under `lighting/`). Alongside the modules:
 | `structure/` | base plate `.DXF` and pillar `.STL` |
 | `final_assembly/` | `.zip` archive of the complete assembly |
 
-`CAD_files/README.md` is an unfilled changelog template carried over from the
+`mechanical/README.md` is an unfilled changelog template carried over from the
 source repository.
 
-## `ECAD_files/`
+## `electronics/`
 
 One KiCad project per PCB (`BB_RPI_shield_V1`, `BB_feeder_main_V1`,
 `BB_feeder_IRBarrier_V1`, `BB_lighting_V1`, `BB_screen_main_V1`,
@@ -54,7 +54,7 @@ One KiCad project per PCB (`BB_RPI_shield_V1`, `BB_feeder_main_V1`,
 schematic exported to PDF and a `production/` folder holding the Gerber `.zip`,
 BOM, pick-and-place files and IPC netlist. `STEPs/` has 3D models of the
 boards and `pictures/` has renders. See
-[`ECAD_files/README.md`](./ECAD_files/README.md) for what each board does.
+[`electronics/README.md`](./electronics/README.md) for what each board does.
 
 ## Large files
 
@@ -64,9 +64,11 @@ small pointer files.
 
 ## History
 
-`CAD_files/V3/` and `ECAD_files/` were imported with their full commit history
+`mechanical/V3/` and `electronics/` were imported with their full commit history
 from the ICM GitLab project `icm-institute/rnd/projects/burguiere_beatbox_website`
-(`02_CAD_files/V3` and `03_ECAD_files` on its `main` branch).
+(`02_CAD_files/V3` and `03_ECAD_files` on its `main` branch). They were later
+renamed from `CAD_files/` and `ECAD_files/`; use `git log --follow <file>` to
+see a file's history across the renames.
 
 ## Licence
 
