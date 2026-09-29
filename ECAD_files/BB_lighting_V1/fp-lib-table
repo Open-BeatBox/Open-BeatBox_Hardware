@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ADAFRUIT_ILI9341")(type "KiCad")(uri "C:/Users/a.pierre.tissier/Documents/KiCad/6.0/footprints/customLibrairies/ADAFRUIT_ILI9341.pretty")(options "")(descr "")(disabled))
+)

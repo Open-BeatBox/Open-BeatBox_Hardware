@@ -1,0 +1,924 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "e187e0e6-61da-4d1f-b870-9321b3f7e585")
+	(paper "A4")
+	(title_block
+		(title "BB_feeder_main")
+		(date "2024-03-21")
+		(rev "v1")
+		(company "ICM - Paris Brain Institute")
+		(comment 1 "rnd@icm-institute.org")
+		(comment 2 "RnD Unit")
+	)
+	(lib_symbols
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(wire
+		(pts
+			(xy 167.64 91.44) (xy 220.98 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09cd6413-a035-43e6-ba7e-dc5c48056ebd")
+	)
+	(wire
+		(pts
+			(xy 167.64 106.68) (xy 220.98 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c2aeb16-b2f6-46c6-bf21-5e1911fb6b85")
+	)
+	(wire
+		(pts
+			(xy 167.64 85.09) (xy 220.98 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16c26024-7679-4317-ab23-e25afbe3532a")
+	)
+	(wire
+		(pts
+			(xy 80.01 91.44) (xy 119.38 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "518523aa-f2cb-4ea8-ad09-35c3804c3c8a")
+	)
+	(wire
+		(pts
+			(xy 80.01 81.28) (xy 119.38 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d8c80d5-1863-44d4-9edf-213aabc87419")
+	)
+	(wire
+		(pts
+			(xy 167.64 95.25) (xy 220.98 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87114cf6-5ec0-4e2d-b118-d78b9809ac9b")
+	)
+	(wire
+		(pts
+			(xy 167.64 88.9) (xy 220.98 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97ddd386-f1a0-4b49-819c-dc04da00eb0b")
+	)
+	(wire
+		(pts
+			(xy 167.64 80.01) (xy 220.98 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0ccce9b-e63b-41a3-a637-567847476ddc")
+	)
+	(wire
+		(pts
+			(xy 167.64 100.33) (xy 220.98 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b095559f-fb2c-44a7-9cf0-9464b1846215")
+	)
+	(wire
+		(pts
+			(xy 167.64 82.55) (xy 220.98 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba80e127-ddde-4f40-856c-c79eade26118")
+	)
+	(bus
+		(pts
+			(xy 139.7 49.53) (xy 139.7 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4f81baf-76ea-481f-a30c-9f271deafcc9")
+	)
+	(wire
+		(pts
+			(xy 167.64 97.79) (xy 220.98 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d97b7c6e-8302-4e62-8f93-ed847184e862")
+	)
+	(wire
+		(pts
+			(xy 80.01 93.98) (xy 119.38 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f630d3bb-ffd4-43fa-b285-317288b3b42f")
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 41.91 135.89 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2c539051-5334-4fea-b631-71e4c3db91ca")
+		(property "Reference" "H103"
+			(at 44.45 134.6199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 44.45 137.1599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_TopBottom"
+			(at 41.91 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 41.91 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "BB_feeder_main_V1"
+				(path "/e187e0e6-61da-4d1f-b870-9321b3f7e585"
+					(reference "H103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 41.91 129.54 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ab34a8d-8fcc-42f0-815a-b7cf8c64da93")
+		(property "Reference" "H102"
+			(at 44.45 128.2699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 44.45 130.8099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_TopBottom"
+			(at 41.91 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 41.91 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "BB_feeder_main_V1"
+				(path "/e187e0e6-61da-4d1f-b870-9321b3f7e585"
+					(reference "H102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 41.91 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7daa6980-90e3-44ee-b3ad-7e1a222c793f")
+		(property "Reference" "H101"
+			(at 44.45 120.6499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 44.45 123.1899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_TopBottom"
+			(at 41.91 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 41.91 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "BB_feeder_main_V1"
+				(path "/e187e0e6-61da-4d1f-b870-9321b3f7e585"
+					(reference "H101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.08 29.21)
+		(size 26.67 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "1a20bc19-766e-4a02-986c-7763d848b210")
+		(property "Sheetname" "CAN bus"
+			(at 132.08 28.4984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN_bus.kicad_sch"
+			(at 132.08 50.1146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CAN{SPI1+GPIO}" bidirectional
+			(at 139.7 49.53 270)
+			(uuid "5d8097da-cac7-4fac-b236-31e5c0585e3d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "BB_feeder_main_V1"
+				(path "/e187e0e6-61da-4d1f-b870-9321b3f7e585"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 220.98 76.2)
+		(size 31.75 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "75d61ba9-33eb-401e-96ec-d0b0e3920d19")
+		(property "Sheetname" "Motor driver"
+			(at 220.98 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Driver.kicad_sch"
+			(at 220.98 114.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Motor_EN" input
+			(at 220.98 82.55 180)
+			(uuid "d6444702-68d3-4c3f-95e1-cfaf020cc0d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Motor_SLEEP" input
+			(at 220.98 85.09 180)
+			(uuid "5d576c41-7a3c-4027-87da-10c2972da614")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Food_detected" output
+			(at 220.98 106.68 180)
+			(uuid "aebd16ae-088b-4ebb-af09-1626e439424b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Motor_STEP" input
+			(at 220.98 88.9 180)
+			(uuid "0b753ab0-0de6-49d0-9a16-96f802ffa295")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Motor_DIR" input
+			(at 220.98 91.44 180)
+			(uuid "f50a4d8f-27a1-4c9d-aaac-5c6de12fbaf6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Motor_RESET" input
+			(at 220.98 80.01 180)
+			(uuid "77008ce9-36bd-40e3-ae9d-9af903702454")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Motor_MS1" input
+			(at 220.98 95.25 180)
+			(uuid "ba241209-f21f-46f4-bb23-f4121235b3d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Motor_MS2" input
+			(at 220.98 97.79 180)
+			(uuid "c7b4d85c-0286-4ada-9d8a-a3b61c474bc8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Motor_MS3" input
+			(at 220.98 100.33 180)
+			(uuid "e8e63ee7-0572-42b5-a114-95e922b18b96")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "BB_feeder_main_V1"
+				(path "/e187e0e6-61da-4d1f-b870-9321b3f7e585"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.705 72.39)
+		(size 27.305 28.575)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bd372d52-aa33-4fef-bdd6-d5d24e16829e")
+		(property "Sheetname" "Power"
+			(at 52.705 71.6784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 52.705 101.5496 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_detect" output
+			(at 80.01 81.28 0)
+			(uuid "ae8db331-483b-4832-9a21-701410d4a479")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_D-" bidirectional
+			(at 80.01 93.98 0)
+			(uuid "0c2086fc-14f0-4c64-afc4-6a007984aae3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_D+" bidirectional
+			(at 80.01 91.44 0)
+			(uuid "f7798e8d-6f62-4e20-af91-fade4048bead")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "BB_feeder_main_V1"
+				(path "/e187e0e6-61da-4d1f-b870-9321b3f7e585"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 69.85)
+		(size 48.26 54.61)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e0e74fef-3790-4ee8-8c56-ab77c7d1e46c")
+		(property "Sheetname" "MCU"
+			(at 119.38 69.1384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 119.38 125.0446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CAN{SPI1+GPIO}" bidirectional
+			(at 139.7 69.85 90)
+			(uuid "48bd85e0-6441-42f5-b44e-bc7d44adaf42")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Motor_EN" output
+			(at 167.64 82.55 0)
+			(uuid "8a85e7ae-ecb1-49ed-a404-3ef55893bed5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Motor_STEP" output
+			(at 167.64 88.9 0)
+			(uuid "8abbc2dc-5230-4172-b11f-f08e3845c795")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Motor_DIR" output
+			(at 167.64 91.44 0)
+			(uuid "3ebd6003-6984-4962-9221-6f35ee9a76a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Food_detected" input
+			(at 167.64 106.68 0)
+			(uuid "3aa4300a-37bb-425a-bbe6-51b28b8c66bb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Motor_SLEEP" output
+			(at 167.64 85.09 0)
+			(uuid "fc759ddf-f67e-4daf-9481-ca4c01847ce2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Motor_RESET" output
+			(at 167.64 80.01 0)
+			(uuid "b89649a7-d908-4cbb-8374-1d9f115034a3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Motor_MS3" output
+			(at 167.64 100.33 0)
+			(uuid "a737b385-2268-428b-afba-b39ccfd2731d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Motor_MS2" output
+			(at 167.64 97.79 0)
+			(uuid "f8b817f5-107f-464a-ba5b-7d6595bbe6fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Motor_MS1" output
+			(at 167.64 95.25 0)
+			(uuid "b74d8656-5690-47f3-bd86-2ce61232cdc7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_detect" input
+			(at 119.38 81.28 180)
+			(uuid "fda96d17-1374-4436-9b75-d3908f98aa5f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_D+" bidirectional
+			(at 119.38 91.44 180)
+			(uuid "939dcb27-ba66-40b1-b7c1-b60bf6606dc8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_D-" bidirectional
+			(at 119.38 93.98 180)
+			(uuid "11cf0a85-088c-4914-9164-1690ca62c1c4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "BB_feeder_main_V1"
+				(path "/e187e0e6-61da-4d1f-b870-9321b3f7e585"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

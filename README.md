@@ -1,12 +1,16 @@
 # Open-BEATBox — Hardware
 
-CAD sources and production files for the Open-BEATBox apparatus.
+CAD sources, electronics designs and production files for the Open-BEATBox
+apparatus.
 
 ## Contents
 
-`CAD_files/` holds two hardware generations, **V2** and **V3**.
+- `CAD_files/` — mechanical CAD, two hardware generations, **V2** and **V3**.
+- `ECAD_files/` — KiCad electronics for the V3 modules.
 
-### `V2/`
+## `CAD_files/`
+
+### `CAD_files/V2/`
 
 SolidWorks sources (`.SLDPRT` parts, `.SLDASM` assemblies), reference renders
 (`.png`) and one drawing (`cage_1feeder_2screens.pdf`), organised per module:
@@ -26,18 +30,43 @@ carry the intended material and thickness, e.g. `..._3mm_clear.DXF`), and
 sliced `.gcode` whose filenames indicate a Creality K1 Max, 0.4 mm nozzle and
 Hyper PLA.
 
-### `V3/`
+### `CAD_files/V3/`
 
-Neutral-format sources per module — `RPI_shield_V3/`, `feeder_V3/`,
-`lighting_V3/`, `screen_V3/`, `tunnel_V3/` — each with a `.STEP` file, a `.zip`
-archive of the native CAD project, and a `PRODUCTION/` subfolder of `.STL`
-files (plus one `.DXF` under `lighting_V3/`).
+Neutral-format sources per module — `feeder/`, `lighting/`, `main/` (Raspberry
+Pi shield), `screen/`, `tunnel/` — each with a `.STEP` file, a `.zip` archive
+of the native CAD project, and a `PRODUCTION/` subfolder of `.STL` files (plus
+one `.DXF` under `lighting/`). Alongside the modules:
 
-Note: `screen_V3/` has no `.zip` archive; only its `.STEP` file and
-`PRODUCTION/` folder are present.
+| Folder | Contents |
+| --- | --- |
+| `enclosure/` | 3 mm wall, door and ceiling panels and the 10 mm base plate as `.DXF` for laser cutting, plus the door knob `.STL` |
+| `structure/` | base plate `.DXF` and pillar `.STL` |
+| `final_assembly/` | `.zip` archive of the complete assembly |
 
 `CAD_files/README.md` is an unfilled changelog template carried over from the
 source repository.
+
+## `ECAD_files/`
+
+One KiCad project per PCB (`BB_RPI_shield_V1`, `BB_feeder_main_V1`,
+`BB_feeder_IRBarrier_V1`, `BB_lighting_V1`, `BB_screen_main_V1`,
+`BB_IR_light_curtain_V2_38k`, `BB_tunnel_V1`, `BB_nosepoke_V1`), each with its
+schematic exported to PDF and a `production/` folder holding the Gerber `.zip`,
+BOM, pick-and-place files and IPC netlist. `STEPs/` has 3D models of the
+boards and `pictures/` has renders. See
+[`ECAD_files/README.md`](./ECAD_files/README.md) for what each board does.
+
+## Large files
+
+`.zip` and `.STEP` files are stored with [Git LFS](https://git-lfs.com/).
+Install it before cloning (`git lfs install`), or those files will arrive as
+small pointer files.
+
+## History
+
+`CAD_files/V3/` and `ECAD_files/` were imported with their full commit history
+from the ICM GitLab project `icm-institute/rnd/projects/burguiere_beatbox_website`
+(`02_CAD_files/V3` and `03_ECAD_files` on its `main` branch).
 
 ## Licence
 
@@ -51,5 +80,5 @@ CERN Open Hardware Licence Version 2 — Strongly Reciprocal
 
 ## Issues
 
-Please report problems with these CAD files in this repository's
+Please report problems with these CAD and electronics files in this repository's
 [issue tracker](https://github.com/Open-BeatBox/Open-BeatBox_Hardware/issues).
