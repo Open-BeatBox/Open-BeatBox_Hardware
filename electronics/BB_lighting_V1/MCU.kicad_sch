@@ -4981,40 +4981,34 @@
 		(uuid "002edcb8-35f6-4864-8f1c-c6ed20a2fb3c")
 	)
 	(junction
-		(at 186.69 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "00e9224d-f531-404b-b40b-5f549117db61")
-	)
-	(junction
-		(at 71.12 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "038ebe48-b78c-4be2-bab0-661602ea4bd5")
-	)
-	(junction
 		(at 88.9 20.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "03f7c0b9-612e-4b32-99b7-cef3379e5b1c")
 	)
 	(junction
-		(at 147.32 25.4)
+		(at 252.73 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0d6756cf-cc0b-4d3e-87b9-63e2dde5d603")
+		(uuid "0f16d75e-acb1-4cd7-bb35-f5ddeb74b7ed")
 	)
 	(junction
-		(at 224.79 55.88)
+		(at 218.44 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "17fa2ea6-d78b-4eb2-8663-68e3ba189f93")
+		(uuid "108861a1-e149-44bb-8bd0-5d0d55e91417")
 	)
 	(junction
 		(at 167.64 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1815e565-47f0-4575-936d-2b0b6f16409c")
+	)
+	(junction
+		(at 193.04 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1be1b381-d3a7-493e-8005-4dda7e5f6bcd")
 	)
 	(junction
 		(at 133.35 35.56)
@@ -5029,34 +5023,28 @@
 		(uuid "2430ba47-cb85-4bd0-b0a4-decc7567a626")
 	)
 	(junction
-		(at 199.39 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "279f345b-ed99-46b2-81ea-6826710ad83a")
-	)
-	(junction
 		(at 53.34 20.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "27fd3f15-b03c-4ba3-b643-7bf94dbfcf83")
 	)
 	(junction
-		(at 212.09 55.88)
+		(at 224.79 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2a3e98ee-f96e-4aaf-9b7a-57bf8be77579")
+		(uuid "28711cd9-72cd-4928-bd89-74b56e00134a")
+	)
+	(junction
+		(at 186.69 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29adfb0d-476e-42f7-ab36-a49e8ee3391a")
 	)
 	(junction
 		(at 49.53 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2a68511c-61b0-45aa-ab72-a0e71f96bf39")
-	)
-	(junction
-		(at 186.69 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2ccaa618-04eb-483f-89f1-49c40a9002ef")
 	)
 	(junction
 		(at 71.12 20.32)
@@ -5083,28 +5071,46 @@
 		(uuid "38cf2138-9eb6-4397-bbdf-37ee0d9dd2e3")
 	)
 	(junction
+		(at 205.74 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a334032-0ff0-4aca-a47a-dfb729985428")
+	)
+	(junction
+		(at 212.09 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3d86a468-7d71-4fdf-b38d-6717d295ee98")
+	)
+	(junction
 		(at 186.69 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "410b0803-1206-40b7-81c1-4ff165ca52a0")
 	)
 	(junction
-		(at 205.74 55.88)
+		(at 199.39 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "43a8c839-e264-48ec-8909-fc68cb87f639")
+		(uuid "4ec2dc41-2884-4921-9836-bc8468aad08b")
 	)
 	(junction
-		(at 212.09 63.5)
+		(at 193.04 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4c7ede4d-dc83-4278-b8c5-69fc7c306fa3")
+		(uuid "546770f5-3b8a-44ac-954b-97b2f63a2b40")
 	)
 	(junction
-		(at 128.27 132.08)
+		(at 205.74 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "56c350f6-c8fc-438a-bbc8-cfafce506eaa")
+		(uuid "58fa5a65-b51c-4320-9249-f5a608ad06f3")
+	)
+	(junction
+		(at 199.39 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b24d315-7f13-482b-a561-e8c7557be1fa")
 	)
 	(junction
 		(at 212.09 81.28)
@@ -5125,16 +5131,10 @@
 		(uuid "61a9c815-589f-44e7-b621-bfae4e314cd7")
 	)
 	(junction
-		(at 193.04 55.88)
+		(at 180.34 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "65ff2634-b62f-4571-ac57-8e7016518d5e")
-	)
-	(junction
-		(at 252.73 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6bf73ea9-55c6-491b-81c7-b75613fa4c10")
+		(uuid "62e739b0-1c7d-4df4-b58b-f358ec6022a4")
 	)
 	(junction
 		(at 39.37 53.34)
@@ -5167,6 +5167,18 @@
 		(uuid "838a526c-b119-4b5e-b080-ab5ae4b20211")
 	)
 	(junction
+		(at 218.44 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "87d20c89-cfd2-47b4-9691-fbff8310ce9a")
+	)
+	(junction
+		(at 71.12 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8e6f3b9d-6664-4a09-bcf0-f8d7fa499593")
+	)
+	(junction
 		(at 181.61 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5179,22 +5191,28 @@
 		(uuid "8fff4d99-321c-44ee-96ed-533e1f6a5a7a")
 	)
 	(junction
-		(at 218.44 55.88)
+		(at 156.21 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "97c5684f-aa33-4c3e-ad3b-a7b110ba5a74")
+		(uuid "92b7c5a6-238c-4bde-a1ee-93c40047d872")
 	)
 	(junction
-		(at 88.9 36.83)
+		(at 128.27 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9be470f5-960e-43a0-a914-56d0f66fb5bd")
+		(uuid "9986a15a-b3fb-4879-b4a1-46b46b55e203")
 	)
 	(junction
 		(at 109.22 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9f6b5a57-24ac-4fe1-b9a5-5df55ff444d6")
+	)
+	(junction
+		(at 186.69 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9f944902-8e4d-4021-b94c-f4b15f970c4d")
 	)
 	(junction
 		(at 16.51 78.74)
@@ -5227,10 +5245,10 @@
 		(uuid "a5686bbf-86d3-4fe7-9c56-0864bbc5f86b")
 	)
 	(junction
-		(at 199.39 55.88)
+		(at 163.83 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a829da24-0630-4c1b-ac8c-e28b24a2e82d")
+		(uuid "a780923c-2c95-46fb-9365-3e0fd521bb86")
 	)
 	(junction
 		(at 266.7 54.61)
@@ -5239,34 +5257,22 @@
 		(uuid "a9b41403-85d4-44de-94da-71511cd72f6f")
 	)
 	(junction
-		(at 123.19 64.77)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "aa8306a8-70d4-4393-846d-63a79bfbd0ea")
-	)
-	(junction
 		(at 53.34 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "afd273f2-9d93-4497-a3e0-58f2a5421d0d")
 	)
 	(junction
-		(at 163.83 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b00101f8-079f-4893-8c11-df1efc58b6da")
-	)
-	(junction
-		(at 173.99 43.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b9083af5-03e6-4b28-9fa2-89b51adfa995")
-	)
-	(junction
 		(at 224.79 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb58f2f2-ef70-430a-8d5a-dd244c8421a1")
+	)
+	(junction
+		(at 212.09 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be6a5c24-4641-40e3-827e-169c4b5c3bda")
 	)
 	(junction
 		(at 184.15 68.58)
@@ -5281,10 +5287,10 @@
 		(uuid "c8dc9769-4074-425c-9e44-7b6b33faadca")
 	)
 	(junction
-		(at 156.21 63.5)
+		(at 147.32 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ca4b9010-fced-4257-8802-ea8d1749e1d7")
+		(uuid "caf07876-0c2f-44ea-b6fb-c26664f19599")
 	)
 	(junction
 		(at 128.27 127)
@@ -5311,16 +5317,22 @@
 		(uuid "d77bb558-7e48-4a95-a103-2e642f035f25")
 	)
 	(junction
-		(at 205.74 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d83d7baf-43d5-4783-bac1-6ac51a620b0b")
-	)
-	(junction
 		(at 173.99 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db20ca93-b97c-4891-aa1e-275949714837")
+	)
+	(junction
+		(at 173.99 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dba0b35e-17b2-4ab0-9e26-cbdbd46f8719")
+	)
+	(junction
+		(at 88.9 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd99ff04-eb1d-4372-9dde-3064078123a0")
 	)
 	(junction
 		(at 267.97 54.61)
@@ -5353,28 +5365,16 @@
 		(uuid "ea1e8840-53e4-4de4-a556-ba6c7500fb42")
 	)
 	(junction
+		(at 123.19 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee441e46-9723-4521-bc22-069069e1677e")
+	)
+	(junction
 		(at 109.22 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f0076712-c496-4956-b69e-791b0480719d")
-	)
-	(junction
-		(at 193.04 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f34cab48-b140-45fd-95d3-d46e8baed3b1")
-	)
-	(junction
-		(at 180.34 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f8d18cc3-3d5a-48ae-acbc-828f67663ecf")
-	)
-	(junction
-		(at 218.44 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fed67d5f-b3ce-45a8-a95a-0be6cc3bb57b")
 	)
 	(no_connect
 		(at 205.74 109.22)
@@ -5399,10 +5399,6 @@
 	(no_connect
 		(at 205.74 78.74)
 		(uuid "1e5ea3b2-17b7-4afa-b797-fa1ad5ee02a8")
-	)
-	(no_connect
-		(at 205.74 152.4)
-		(uuid "2e465ba2-9615-402b-a3dc-8c46fbd3ff55")
 	)
 	(no_connect
 		(at 205.74 86.36)
@@ -5614,6 +5610,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 63.5) (xy 193.04 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00ec77a9-79f2-4c89-b4ed-c087fa206a19")
+	)
+	(wire
+		(pts
 			(xy 152.4 132.08) (xy 154.94 132.08)
 		)
 		(stroke
@@ -5621,16 +5627,6 @@
 			(type default)
 		)
 		(uuid "039d81c6-e888-4be7-9c54-9e545e9446b7")
-	)
-	(wire
-		(pts
-			(xy 180.34 63.5) (xy 186.69 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "047cdd01-55d5-453b-97e5-7053310fa52a")
 	)
 	(wire
 		(pts
@@ -5684,7 +5680,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 63.5) (xy 212.09 63.5)
+			(xy 180.34 63.5) (xy 186.69 63.5)
 		)
 		(stroke
 			(width 0)
@@ -5711,6 +5707,16 @@
 			(type default)
 		)
 		(uuid "0d1d7f39-627d-45ad-98e8-7d6b96c0eeca")
+	)
+	(wire
+		(pts
+			(xy 199.39 55.88) (xy 205.74 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d88fb09-4fcf-4757-bfda-6670ddb61213")
 	)
 	(wire
 		(pts
@@ -5764,7 +5770,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 55.88) (xy 163.83 55.88)
+			(xy 156.21 55.88) (xy 163.83 55.88)
 		)
 		(stroke
 			(width 0)
@@ -5872,16 +5878,6 @@
 		)
 		(uuid "241aba25-cac7-4fdb-8dcf-42d62893438e")
 	)
-	(wire
-		(pts
-			(xy 193.04 55.88) (xy 186.69 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2466781c-f045-4902-a8f6-97705ccac21c")
-	)
 	(bus
 		(pts
 			(xy 246.38 129.54) (xy 246.38 121.92)
@@ -5904,6 +5900,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 63.5) (xy 224.79 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28b72878-a56a-466b-abef-f247a57f6228")
+	)
+	(wire
+		(pts
 			(xy 189.23 68.58) (xy 191.77 68.58)
 		)
 		(stroke
@@ -5914,23 +5920,13 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 55.88) (xy 231.14 55.88)
+			(xy 176.53 55.88) (xy 180.34 55.88)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2a7adc14-cbfa-4b01-b3b7-33fbbaefb4b0")
-	)
-	(wire
-		(pts
-			(xy 163.83 55.88) (xy 156.21 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2caabb41-5a55-4f03-9683-e423bdb1638e")
 	)
 	(wire
 		(pts
@@ -5994,6 +5990,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 55.88) (xy 224.79 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34a5dcdc-6d59-4a95-bf2e-de2e58867752")
+	)
+	(wire
+		(pts
 			(xy 163.83 63.5) (xy 156.21 63.5)
 		)
 		(stroke
@@ -6044,6 +6050,16 @@
 	)
 	(wire
 		(pts
+			(xy 252.73 54.61) (xy 257.81 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3968eada-4961-4973-a43e-3f82a1122d1f")
+	)
+	(wire
+		(pts
 			(xy 123.19 25.4) (xy 123.19 30.48)
 		)
 		(stroke
@@ -6051,16 +6067,6 @@
 			(type default)
 		)
 		(uuid "398154c8-bc04-434d-87bd-b3add6b74120")
-	)
-	(wire
-		(pts
-			(xy 193.04 63.5) (xy 199.39 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a40c49b-aa5f-4cf7-b8e9-b4b899484eb8")
 	)
 	(wire
 		(pts
@@ -6074,13 +6080,13 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 55.88) (xy 193.04 55.88)
+			(xy 199.39 63.5) (xy 205.74 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3e8c6a9f-303a-48d4-b664-5dd4be000f0c")
+		(uuid "3ae39c32-7327-444b-afb3-a021325e8ac4")
 	)
 	(wire
 		(pts
@@ -6164,16 +6170,6 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 55.88) (xy 205.74 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47657f42-9f50-458a-9744-1f2590260a13")
-	)
-	(wire
-		(pts
 			(xy 205.74 147.32) (xy 222.25 147.32)
 		)
 		(stroke
@@ -6201,6 +6197,16 @@
 			(type default)
 		)
 		(uuid "4bd1e038-305a-451d-b1ad-27d8410d46f8")
+	)
+	(wire
+		(pts
+			(xy 173.99 43.18) (xy 173.99 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c3aa0e9-7fc4-496c-9d1b-7215eb20d881")
 	)
 	(wire
 		(pts
@@ -6244,16 +6250,6 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 55.88) (xy 212.09 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "570667ad-d5c9-439f-ac5d-670d2e72d4a5")
-	)
-	(wire
-		(pts
 			(xy 205.74 134.62) (xy 243.84 134.62)
 		)
 		(stroke
@@ -6294,6 +6290,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 25.4) (xy 166.37 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a0e3390-fa62-4a48-96a8-d9a7c9172a8d")
+	)
+	(wire
+		(pts
 			(xy 49.53 45.72) (xy 53.34 45.72)
 		)
 		(stroke
@@ -6314,6 +6320,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 55.88) (xy 167.64 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f70fd5d-486c-4c1b-a9c3-4866af4c181a")
+	)
+	(wire
+		(pts
 			(xy 109.22 64.77) (xy 109.22 66.04)
 		)
 		(stroke
@@ -6331,6 +6347,16 @@
 			(type default)
 		)
 		(uuid "61dd464c-8252-43c5-a093-cab64e234728")
+	)
+	(wire
+		(pts
+			(xy 180.34 55.88) (xy 186.69 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61ebba11-92cf-4860-b38f-1419f5fed17a")
 	)
 	(wire
 		(pts
@@ -6454,33 +6480,13 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 55.88) (xy 176.53 55.88)
+			(xy 205.74 63.5) (xy 212.09 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "76c9a706-ecdf-44b5-a999-7a796d45d18e")
-	)
-	(wire
-		(pts
-			(xy 173.99 43.18) (xy 173.99 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "775a0195-b357-490b-81f2-735f825d70fc")
-	)
-	(wire
-		(pts
-			(xy 199.39 63.5) (xy 205.74 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78ab13f4-c04f-4c4e-8206-2f53bcd60559")
+		(uuid "77e9c572-19c7-45ef-9e95-cd45cd08683b")
 	)
 	(wire
 		(pts
@@ -6491,16 +6497,6 @@
 			(type default)
 		)
 		(uuid "7a1119c8-5b58-4fff-9b5c-9602fa8d24c2")
-	)
-	(wire
-		(pts
-			(xy 143.51 25.4) (xy 147.32 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a194684-e5bb-4607-aa3b-d2e0f4d0b5ef")
 	)
 	(wire
 		(pts
@@ -6624,16 +6620,6 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 63.5) (xy 224.79 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bb49011-c53b-4775-9009-764ada109ffa")
-	)
-	(wire
-		(pts
 			(xy 101.6 106.68) (xy 154.94 106.68)
 		)
 		(stroke
@@ -6724,6 +6710,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 63.5) (xy 218.44 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90c5ff03-1f6d-48e1-9afe-002a3adbbe02")
+	)
+	(wire
+		(pts
 			(xy 167.64 55.88) (xy 167.64 68.58)
 		)
 		(stroke
@@ -6741,16 +6737,6 @@
 			(type default)
 		)
 		(uuid "92e3fdaa-2aa6-4488-b407-4161f067cf78")
-	)
-	(wire
-		(pts
-			(xy 205.74 55.88) (xy 199.39 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "945cdae7-0615-4f5a-be3a-1438fb3fe36f")
 	)
 	(wire
 		(pts
@@ -6834,6 +6820,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 55.88) (xy 231.14 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a64fa56f-bcba-4d86-9ef4-1e37421c8f44")
+	)
+	(wire
+		(pts
 			(xy 133.35 35.56) (xy 147.32 35.56)
 		)
 		(stroke
@@ -6894,6 +6890,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 55.88) (xy 199.39 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af1634b7-b606-4831-a2ba-24731b809658")
+	)
+	(wire
+		(pts
 			(xy 106.68 73.66) (xy 109.22 73.66)
 		)
 		(stroke
@@ -6934,23 +6940,23 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 63.5) (xy 218.44 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b95a96f4-d1a1-44aa-8bda-30a0eec15310")
-	)
-	(wire
-		(pts
-			(xy 147.32 25.4) (xy 166.37 25.4)
+			(xy 143.51 25.4) (xy 147.32 25.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bb68d2ea-4f3a-44ee-bd20-f5d124201ffc")
+	)
+	(wire
+		(pts
+			(xy 193.04 63.5) (xy 199.39 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c01b74a3-36ca-4275-9ff3-a4d7c360e088")
 	)
 	(wire
 		(pts
@@ -7034,16 +7040,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 55.88) (xy 180.34 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc203a12-0d47-4d46-8d84-6e74252ed190")
-	)
-	(wire
-		(pts
 			(xy 88.9 25.4) (xy 105.41 25.4)
 		)
 		(stroke
@@ -7124,6 +7120,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 55.88) (xy 218.44 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbef383f-e31f-4b7a-b73b-d9be3460b1fc")
+	)
+	(wire
+		(pts
 			(xy 212.09 163.83) (xy 212.09 152.4)
 		)
 		(stroke
@@ -7131,16 +7137,6 @@
 			(type default)
 		)
 		(uuid "dc238e45-6a2b-4473-a380-9f03d2d05468")
-	)
-	(wire
-		(pts
-			(xy 252.73 54.61) (xy 257.81 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc57ac85-d5f9-464a-9f8f-4582de74bd33")
 	)
 	(wire
 		(pts
@@ -7184,6 +7180,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 55.88) (xy 193.04 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e664f562-ba39-4085-b9a6-a45478a8cb31")
+	)
+	(wire
+		(pts
 			(xy 205.74 121.92) (xy 243.84 121.92)
 		)
 		(stroke
@@ -7201,16 +7207,6 @@
 			(type default)
 		)
 		(uuid "e6ea9a4b-c216-4e90-a362-2a113e2136ad")
-	)
-	(wire
-		(pts
-			(xy 224.79 55.88) (xy 218.44 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e739c210-e6d7-4316-b290-c561b5535081")
 	)
 	(wire
 		(pts
@@ -7271,16 +7267,6 @@
 			(type default)
 		)
 		(uuid "ef04c971-4efe-4fb7-a6a2-ee69ea0f2735")
-	)
-	(wire
-		(pts
-			(xy 186.69 63.5) (xy 193.04 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0377c09-d16f-4a3a-924f-5cda0ea55d3f")
 	)
 	(wire
 		(pts
@@ -7361,6 +7347,16 @@
 			(type default)
 		)
 		(uuid "fbc47ca0-d646-4202-88e4-97fd2c07dedc")
+	)
+	(wire
+		(pts
+			(xy 205.74 55.88) (xy 212.09 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff199e40-9948-40bc-9a17-724d23d8c3fe")
 	)
 	(wire
 		(pts
@@ -8068,6 +8064,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 45.72 43.18 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "04b0b956-1014-4512-b238-ac3c0387d395")
+		(property "Reference" "R307"
+			(at 45.72 36.83 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5.1k"
+			(at 45.72 39.37 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 45.72 44.958 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 45.72 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 45.72 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4e2cb1e1-905c-4727-aec6-a8fae81e2448")
+		)
+		(pin "1"
+			(uuid "513300cc-278c-4c22-9d51-e363e3ead9fa")
+		)
+		(instances
+			(project "BB_lighting_V1"
+				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
+					(reference "R307")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 124.46 132.08 0)
 		(unit 1)
@@ -8140,88 +8216,6 @@
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
 					(reference "#PWR0323")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 88.9 30.48 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "06a2fa5e-59fd-4106-b185-4eb55cb63374")
-		(property "Reference" "R303"
-			(at 91.44 29.2099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R"
-			(at 91.44 31.7499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 87.122 30.48 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 88.9 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 88.9 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "3f35df29-1715-4b4a-a430-aad33bb7f975")
-		)
-		(pin "1"
-			(uuid "6d6fbbee-4e56-462f-8eef-1e695b5be43b")
-		)
-		(instances
-			(project "BB_lighting_V1"
-				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R303")
 					(unit 1)
 				)
 			)
@@ -8307,7 +8301,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 199.39 59.69 0)
+		(at 252.73 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8315,9 +8309,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "0cb54a27-256d-46e6-af23-6268efa1141d")
-		(property "Reference" "C311"
-			(at 200.025 57.15 0)
+		(uuid "0b4ccc40-8743-431f-8da7-a88487f1a78c")
+		(property "Reference" "C305"
+			(at 256.54 57.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8327,8 +8321,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 197.612 53.594 0)
+		(property "Value" "100nF"
+			(at 256.54 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8338,8 +8332,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 200.3552 63.5 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 253.6952 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8350,7 +8344,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 59.69 0)
+			(at 252.73 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8361,7 +8355,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 199.39 59.69 0)
+			(at 252.73 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8372,15 +8366,95 @@
 			)
 		)
 		(pin "2"
-			(uuid "0c15dc2f-95cd-4218-9899-a16fc187ba5b")
+			(uuid "e137149c-61ad-499f-a042-ea67ad1ee9da")
 		)
 		(pin "1"
-			(uuid "bfff97a3-62a0-486a-bb19-80b542451605")
+			(uuid "d3920631-e015-4ce2-9107-b244f9cf4565")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C311")
+					(reference "C305")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 261.62 54.61 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "135c016d-5b60-45bd-affd-efcd30f73e0f")
+		(property "Reference" "R310"
+			(at 261.62 48.26 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 261.62 50.8 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 261.62 52.832 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 261.62 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 261.62 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "de6b0697-025c-4ab1-8340-d93edbdad055")
+		)
+		(pin "1"
+			(uuid "61586ed8-8ca5-4ff6-84e6-edf17578e1f2")
+		)
+		(instances
+			(project "BB_lighting_V1"
+				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
+					(reference "R310")
 					(unit 1)
 				)
 			)
@@ -8388,7 +8462,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 205.74 59.69 0)
+		(at 160.02 43.18 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8396,31 +8470,30 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "0da63f8c-c100-4289-b5fb-e977d8f8e95a")
-		(property "Reference" "C312"
-			(at 206.375 57.15 0)
+		(fields_autoplaced yes)
+		(uuid "13600aa4-0f0b-40da-80dc-8fd67d0d369e")
+		(property "Reference" "C303"
+			(at 160.02 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 203.962 53.594 0)
+		(property "Value" "1µF"
+			(at 160.02 38.1 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 206.7052 63.5 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 163.83 42.2148 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8431,7 +8504,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 59.69 0)
+			(at 160.02 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8442,7 +8515,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 205.74 59.69 0)
+			(at 160.02 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8453,15 +8526,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "e8380563-c0ab-4d7f-b620-8133a76d8f9f")
+			(uuid "e43ed174-91ac-43e3-93e4-3f24b85b6263")
 		)
 		(pin "1"
-			(uuid "8879bd9c-e30c-42a9-abc8-e0499e9a3715")
+			(uuid "324dab7d-afad-457d-b547-732c82f97b4b")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C312")
+					(reference "C303")
 					(unit 1)
 				)
 			)
@@ -8716,165 +8789,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 265.43 34.29 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1491ffed-b0a9-4daa-84e2-6aae9e6bdada")
-		(property "Reference" "R304"
-			(at 265.43 27.94 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 265.43 30.48 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 265.43 32.512 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 265.43 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 265.43 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c98419dd-92a8-4387-893f-ca848d6b5a8d")
-		)
-		(pin "2"
-			(uuid "26f439c9-abcf-46b7-a14c-f1fcdb96ff82")
-		)
-		(instances
-			(project "BB_lighting_V1"
-				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R304")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 132.08 132.08 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "14b3deff-b7e6-45cb-beea-473f73815b2a")
-		(property "Reference" "C318"
-			(at 132.08 136.398 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "C"
-			(at 132.08 138.938 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 135.89 131.1148 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 132.08 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 132.08 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "158ddf6b-99ca-4f8d-8e5a-f6b2513540be")
-		)
-		(pin "1"
-			(uuid "c696dddb-1347-4e0d-ad4f-a95689324dfb")
-		)
-		(instances
-			(project "BB_lighting_V1"
-				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C318")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 113.03 35.56 0)
 		(unit 1)
@@ -8953,8 +8867,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 45.72 45.72 90)
+		(lib_id "Device:C")
+		(at 224.79 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8962,30 +8876,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "192d481b-4b1a-4d47-95a4-bd11cfd94e22")
-		(property "Reference" "R308"
-			(at 45.72 49.53 90)
+		(uuid "18183684-724b-4c58-b0c9-1987299c13ad")
+		(property "Reference" "C315"
+			(at 225.425 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 45.72 52.07 90)
+		(property "Value" "100nF"
+			(at 223.012 53.594 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 45.72 47.498 90)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 225.7552 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8996,7 +8911,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 45.72 0)
+			(at 224.79 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9006,8 +8921,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 45.72 45.72 0)
+		(property "Description" "Unpolarized capacitor"
+			(at 224.79 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9018,15 +8933,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "c41f16b4-0ff8-42dc-a406-05611c5d7273")
+			(uuid "0a96016e-4bdb-4b3d-ac9f-0b5b11aaa448")
 		)
 		(pin "1"
-			(uuid "693b3fad-6a34-4530-a1e0-33c5cf8cec17")
+			(uuid "2a5aec8f-b91e-49f9-9a8d-fbeed4e68901")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R308")
+					(reference "C315")
 					(unit 1)
 				)
 			)
@@ -9113,7 +9028,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 124.46 73.66 270)
+		(at 148.59 132.08 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9121,9 +9036,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "1c88c831-fc81-4f48-a38d-bb2fd2ce213f")
-		(property "Reference" "R312"
-			(at 124.46 68.834 90)
+		(uuid "1e126d8d-a314-4392-824f-a1e98be3c4c7")
+		(property "Reference" "R315"
+			(at 148.844 134.874 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9132,8 +9047,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 124.46 71.374 90)
+		(property "Value" "1k"
+			(at 148.59 137.16 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9142,8 +9057,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 124.46 71.882 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 148.59 133.858 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9154,7 +9069,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 73.66 0)
+			(at 148.59 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9165,7 +9080,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 124.46 73.66 0)
+			(at 148.59 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9176,15 +9091,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "256338d0-db41-42c9-bc48-ae887fbd60ce")
+			(uuid "c4a8b528-ac6c-4cb4-9221-7bc1e9315240")
 		)
 		(pin "1"
-			(uuid "39015994-3c58-4bbd-9c34-3d8dfaac9baa")
+			(uuid "4a5ce32f-84d4-4513-b65e-9daeb3f4c5c9")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R312")
+					(reference "R315")
 					(unit 1)
 				)
 			)
@@ -9192,7 +9107,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 180.34 59.69 0)
+		(at 132.08 132.08 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9200,31 +9115,29 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "2a7f065e-bdca-47ff-90c9-90c66f41f5cf")
-		(property "Reference" "C308"
-			(at 180.975 57.15 0)
+		(uuid "239567c6-e19c-4a6d-8732-b0164da9b6b0")
+		(property "Reference" "C318"
+			(at 132.08 136.398 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 177.8 53.594 0)
+		(property "Value" "15pF"
+			(at 132.08 138.938 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 181.3052 63.5 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 135.89 131.1148 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9235,7 +9148,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 180.34 59.69 0)
+			(at 132.08 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9246,7 +9159,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 180.34 59.69 0)
+			(at 132.08 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9257,15 +9170,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "a6f79759-5c4c-44d0-9068-51c5e04e4121")
+			(uuid "ecdb6578-3f39-43b8-8f1b-e0e69017ee22")
 		)
 		(pin "1"
-			(uuid "d028bc54-67aa-425a-ba3e-d3a7be1701b5")
+			(uuid "fff65c13-aafd-44c3-87ab-f3523be0a7ed")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C308")
+					(reference "C318")
 					(unit 1)
 				)
 			)
@@ -9273,7 +9186,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 267.97 48.26 180)
+		(at 265.43 34.29 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9282,31 +9195,29 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3062b557-1b34-4751-8a13-04250f6185d5")
-		(property "Reference" "R309"
-			(at 270.51 46.9899 0)
+		(uuid "32bbefa2-fdcd-4315-b197-c5356eb4b99e")
+		(property "Reference" "R304"
+			(at 265.43 27.94 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "R"
-			(at 270.51 49.5299 0)
+		(property "Value" "470R"
+			(at 265.43 30.48 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 269.748 48.26 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 265.43 32.512 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9317,7 +9228,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 267.97 48.26 0)
+			(at 265.43 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9328,7 +9239,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 267.97 48.26 0)
+			(at 265.43 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9338,16 +9249,16 @@
 				)
 			)
 		)
-		(pin "2"
-			(uuid "c379b002-5ff5-4b02-88f7-c9f109b2b6d9")
-		)
 		(pin "1"
-			(uuid "254cd6bc-4de8-481f-b27b-eae26ba92e66")
+			(uuid "a2661285-267a-4562-b973-3d02833d2393")
+		)
+		(pin "2"
+			(uuid "ee817d31-0a10-4949-a43f-03fe14562ad8")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R309")
+					(reference "R304")
 					(unit 1)
 				)
 			)
@@ -9355,7 +9266,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 88.9 40.64 0)
+		(at 71.12 30.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9364,9 +9275,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "329c0c3b-48f1-4cea-8f6f-83c416d3ec8d")
-		(property "Reference" "R306"
-			(at 91.44 39.3699 0)
+		(uuid "376ee831-b146-4930-8fb2-c153a355017a")
+		(property "Reference" "R302"
+			(at 73.66 29.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9376,8 +9287,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 91.44 41.9099 0)
+		(property "Value" "100k"
+			(at 73.66 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9387,8 +9298,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 87.122 40.64 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 69.342 30.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9399,7 +9310,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 40.64 0)
+			(at 71.12 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9410,7 +9321,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 88.9 40.64 0)
+			(at 71.12 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9421,15 +9332,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "bf20bf5d-58c0-4e06-85e8-f1ea6a722d8d")
+			(uuid "66882b39-ade3-436e-811c-391ef0a76113")
 		)
 		(pin "1"
-			(uuid "2f973f0b-2194-445f-a3cf-37773bf0b997")
+			(uuid "57f42680-1fb8-4d81-adf6-f2445fe469f2")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R306")
+					(reference "R302")
 					(unit 1)
 				)
 			)
@@ -9437,7 +9348,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 193.04 59.69 0)
+		(at 231.14 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9445,9 +9356,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "349aa701-0b00-48fb-a50a-cd5f8b5e263f")
-		(property "Reference" "C310"
-			(at 193.675 57.15 0)
+		(uuid "378487c8-1009-4e54-af10-4cfb1d22a049")
+		(property "Reference" "C316"
+			(at 231.775 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9457,8 +9368,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 191.262 53.594 0)
+		(property "Value" "100nF"
+			(at 229.362 53.594 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9468,8 +9379,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 194.0052 63.5 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 232.1052 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9480,7 +9391,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 193.04 59.69 0)
+			(at 231.14 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9491,7 +9402,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 193.04 59.69 0)
+			(at 231.14 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9502,95 +9413,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "afa49223-9403-449f-8c99-cf548cefd51d")
+			(uuid "13f3143d-b958-463c-9ba8-048dfea83794")
 		)
 		(pin "1"
-			(uuid "aa664cd2-739a-4e76-9a5d-b092a1816c15")
+			(uuid "548c19a8-b7cc-40d1-a824-41e42f23e130")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C310")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 45.72 43.18 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "394861a5-aa79-4db6-9a46-3e335fe360ed")
-		(property "Reference" "R307"
-			(at 45.72 36.83 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 45.72 39.37 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 45.72 44.958 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 45.72 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 45.72 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "1494bbce-0898-4e19-a61c-3e40345f9b25")
-		)
-		(pin "1"
-			(uuid "e6fb4929-c748-477c-bdde-1c1798d95da6")
-		)
-		(instances
-			(project "BB_lighting_V1"
-				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R307")
+					(reference "C316")
 					(unit 1)
 				)
 			)
@@ -9676,8 +9507,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 224.79 59.69 0)
+		(lib_id "Device:R")
+		(at 264.16 20.32 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9685,31 +9516,30 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "3b612b6e-0ddf-4b71-a0ea-560cb9301f54")
-		(property "Reference" "C315"
-			(at 225.425 57.15 0)
+		(fields_autoplaced yes)
+		(uuid "3b942e51-60f4-428a-b6d6-d77754d58db8")
+		(property "Reference" "R301"
+			(at 264.16 13.97 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 223.012 53.594 0)
+		(property "Value" "470R"
+			(at 264.16 16.51 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 225.7552 63.5 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 264.16 18.542 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9720,7 +9550,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 224.79 59.69 0)
+			(at 264.16 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9730,8 +9560,8 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 224.79 59.69 0)
+		(property "Description" "Resistor"
+			(at 264.16 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9740,17 +9570,17 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "2"
-			(uuid "b5ad3863-3e54-4f6b-a86a-8f3480da0021")
 		)
 		(pin "1"
-			(uuid "3e3e49ee-82ea-4bb2-8814-80f69471dd6a")
+			(uuid "b733bedc-89ff-46f4-9525-072378d7ea60")
+		)
+		(pin "2"
+			(uuid "72e134a9-1f64-45d5-92c9-380c1b793615")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C315")
+					(reference "R301")
 					(unit 1)
 				)
 			)
@@ -9839,8 +9669,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 231.14 59.69 0)
+		(lib_id "Device:R")
+		(at 88.9 30.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9848,9 +9678,10 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "461c5473-819a-4c35-9601-e17ac8a34acb")
-		(property "Reference" "C316"
-			(at 231.775 57.15 0)
+		(fields_autoplaced yes)
+		(uuid "46dd6688-7587-4003-99e1-b70a42cf0df2")
+		(property "Reference" "R303"
+			(at 91.44 29.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9860,8 +9691,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 229.362 53.594 0)
+		(property "Value" "100k"
+			(at 91.44 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9871,8 +9702,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 232.1052 63.5 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 87.122 30.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9883,7 +9714,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 59.69 0)
+			(at 88.9 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9893,8 +9724,8 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 231.14 59.69 0)
+		(property "Description" "Resistor"
+			(at 88.9 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9905,15 +9736,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "e5ca66cf-c1cf-4d64-9223-556ebcb4d6fb")
+			(uuid "c8fd1b5e-2c0e-408b-bf8c-ac0b59806472")
 		)
 		(pin "1"
-			(uuid "f67df873-d7d7-4036-bfbb-4f409f090138")
+			(uuid "c1d4cebc-1645-4b1c-9b68-cc0177ae61ff")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C316")
+					(reference "R303")
 					(unit 1)
 				)
 			)
@@ -10119,8 +9950,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 261.62 54.61 270)
+		(lib_id "Device:C")
+		(at 113.03 30.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10129,29 +9960,31 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4bdb1d61-2474-449c-a039-aabfe4e54348")
-		(property "Reference" "R310"
-			(at 261.62 48.26 90)
+		(uuid "48741020-1c9a-4f54-b687-f973b2bb4461")
+		(property "Reference" "C302"
+			(at 116.84 29.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 261.62 50.8 90)
+		(property "Value" "10µF"
+			(at 116.84 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 261.62 52.832 90)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 113.9952 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10162,88 +9995,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 261.62 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a0fd2ef9-07f0-41f1-b02d-1103165e2a58")
-		)
-		(pin "1"
-			(uuid "0dc5f931-82ca-4bc8-af2e-1669fbcfd1c0")
-		)
-		(instances
-			(project "BB_lighting_V1"
-				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R310")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 252.73 58.42 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "55de28e7-e5f4-4529-80ba-f3beaa926b5f")
-		(property "Reference" "C305"
-			(at 256.54 57.1499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C"
-			(at 256.54 59.6899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 253.6952 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 252.73 58.42 0)
+			(at 113.03 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10254,7 +10006,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 252.73 58.42 0)
+			(at 113.03 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10265,15 +10017,178 @@
 			)
 		)
 		(pin "2"
-			(uuid "97c8a8d7-01ab-42e7-a71e-587e084db2e7")
+			(uuid "929450e2-8525-4f3f-8ced-8bba8ebf4b02")
 		)
 		(pin "1"
-			(uuid "ba5379ba-fc95-49b3-85de-98d1805d82b5")
+			(uuid "df2bcef5-99d0-4ddb-b4ff-44beed5dabfb")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C305")
+					(reference "C302")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 180.34 59.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "48d0b83f-f48f-437f-b538-cf792ed51db2")
+		(property "Reference" "C308"
+			(at 180.975 57.15 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 177.8 53.594 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 181.3052 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 180.34 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d8aafa91-0c42-46a8-9a00-96f1ec12a5e6")
+		)
+		(pin "1"
+			(uuid "3443e163-68b4-4433-98fa-82aa10daef8c")
+		)
+		(instances
+			(project "BB_lighting_V1"
+				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
+					(reference "C308")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 44.45 77.47 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5003bcac-585b-49af-b802-3ac5db9e6795")
+		(property "Reference" "R314"
+			(at 46.99 76.1999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "27R"
+			(at 46.99 78.7399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 46.228 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 44.45 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "99253c34-bf73-4a64-844c-92e2e8405179")
+		)
+		(pin "1"
+			(uuid "823465a6-0f69-4ae5-91ac-cde72d7126e7")
+		)
+		(instances
+			(project "BB_lighting_V1"
+				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
+					(reference "R314")
 					(unit 1)
 				)
 			)
@@ -10596,7 +10511,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 147.32 29.21 0)
+		(at 193.04 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10604,10 +10519,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "62ec2405-a16b-4aac-8774-56d390d94098")
-		(property "Reference" "C301"
-			(at 151.13 27.9399 0)
+		(uuid "5fce1488-4b04-4255-975e-d478d0bdc3cf")
+		(property "Reference" "C310"
+			(at 193.675 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10617,8 +10531,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 151.13 30.4799 0)
+		(property "Value" "100nF"
+			(at 191.262 53.594 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10628,8 +10542,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 148.2852 33.02 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 194.0052 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10640,7 +10554,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 29.21 0)
+			(at 193.04 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10651,7 +10565,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 147.32 29.21 0)
+			(at 193.04 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10662,15 +10576,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "93436dae-d685-4ecf-9ccc-af229de5fa2b")
+			(uuid "1b4b118d-100a-4b3f-b199-1ccb8e9d43bb")
 		)
 		(pin "1"
-			(uuid "9d2a1e16-5de8-4fe8-a101-60753316686e")
+			(uuid "fd8f1921-e9b0-44c4-8522-14776e65ec81")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C301")
+					(reference "C310")
 					(unit 1)
 				)
 			)
@@ -10921,7 +10835,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 148.59 132.08 90)
+		(at 41.91 77.47 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10929,29 +10843,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "6c6a86e0-3200-47e0-83d0-b7552e55242a")
-		(property "Reference" "R315"
-			(at 148.844 134.874 90)
+		(uuid "69aea37e-3377-4469-a1fa-6c16f572f420")
+		(property "Reference" "R313"
+			(at 35.56 76.454 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "R"
-			(at 148.59 137.16 90)
+		(property "Value" "27R"
+			(at 35.56 78.994 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 148.59 133.858 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 43.688 77.47 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10962,7 +10878,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 132.08 0)
+			(at 41.91 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10973,7 +10889,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 148.59 132.08 0)
+			(at 41.91 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10984,23 +10900,23 @@
 			)
 		)
 		(pin "2"
-			(uuid "e4bbbe03-0815-46c5-8f24-e91d8f0aa37a")
+			(uuid "b1a7f922-2240-4b43-ab39-0aaeca312b04")
 		)
 		(pin "1"
-			(uuid "85812282-7414-4b40-a98c-7f2f7610d27d")
+			(uuid "c6d5e85c-2ee0-4175-9f7a-5c95c5e6df18")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R315")
+					(reference "R313")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 123.19 60.96 180)
+		(lib_id "Device:C")
+		(at 205.74 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11008,32 +10924,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "75d40050-c3e6-492b-b9d3-9295a7dcb2e5")
-		(property "Reference" "R311"
-			(at 125.73 59.6899 0)
+		(uuid "6be24764-9e10-4d75-82fd-b1b3db4074e7")
+		(property "Reference" "C312"
+			(at 206.375 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 125.73 62.2299 0)
+		(property "Value" "100nF"
+			(at 203.962 53.594 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 124.968 60.96 90)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 206.7052 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11044,7 +10959,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 60.96 0)
+			(at 205.74 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11054,8 +10969,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 123.19 60.96 0)
+		(property "Description" "Unpolarized capacitor"
+			(at 205.74 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11066,15 +10981,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "bfeb4921-2e6c-41bd-bc86-fc2a512785da")
+			(uuid "d279bcd3-1881-4d8a-b9e3-c617b75d759b")
 		)
 		(pin "1"
-			(uuid "0003d8d3-dbea-40fb-b7a0-a6ff0eb1b1cb")
+			(uuid "0f897fb7-e5ba-4a68-9629-e95f88455974")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R311")
+					(reference "C312")
 					(unit 1)
 				)
 			)
@@ -11393,86 +11308,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 132.08 121.92 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "85ae27b6-08a3-4c66-b5d7-19a3c5909d3e")
-		(property "Reference" "C317"
-			(at 132.08 114.3 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "C"
-			(at 132.08 116.84 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 135.89 120.9548 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 132.08 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 132.08 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "aa41cbec-a86b-46af-b363-46bfe5567c28")
-		)
-		(pin "1"
-			(uuid "3c662e8d-cdf0-4b85-8bd5-4633c170cad9")
-		)
-		(instances
-			(project "BB_lighting_V1"
-				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C317")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 132.08 171.45 0)
 		(unit 1)
@@ -11747,7 +11582,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 113.03 30.48 0)
+		(at 132.08 121.92 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11756,31 +11591,29 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "88933064-0459-4f0f-b6df-a54e7761dc43")
-		(property "Reference" "C302"
-			(at 116.84 29.2099 0)
+		(uuid "89e289d1-d410-42e5-be3f-7a2252445883")
+		(property "Reference" "C317"
+			(at 132.08 114.3 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 116.84 31.7499 0)
+		(property "Value" "15pF"
+			(at 132.08 116.84 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 113.9952 34.29 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 135.89 120.9548 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11791,7 +11624,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 30.48 0)
+			(at 132.08 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11802,7 +11635,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 113.03 30.48 0)
+			(at 132.08 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11813,15 +11646,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "d7add015-d2dc-415f-bf10-477c85831bf2")
+			(uuid "86e46518-6445-491e-9e17-52dce6ff7375")
 		)
 		(pin "1"
-			(uuid "cefec6df-4f81-4641-af05-7a06df148ef5")
+			(uuid "4ea2cf34-dc83-4a92-a2eb-ce5e6ad3904d")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C302")
+					(reference "C317")
 					(unit 1)
 				)
 			)
@@ -11901,6 +11734,88 @@
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
 					(reference "TP306")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 71.12 40.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8d63aab3-a64d-486b-afd5-de79a654ce53")
+		(property "Reference" "R305"
+			(at 73.66 39.3699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100k"
+			(at 73.66 41.9099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 69.342 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 71.12 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6630c020-d701-4bbc-911f-4daebec6668d")
+		)
+		(pin "1"
+			(uuid "41018612-ee38-483f-9dd6-ab7f3395c981")
+		)
+		(instances
+			(project "BB_lighting_V1"
+				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
+					(reference "R305")
 					(unit 1)
 				)
 			)
@@ -12419,86 +12334,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 177.8 43.18 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "94013af1-7f90-424b-be32-4cbcd89fec35")
-		(property "Reference" "C304"
-			(at 177.8 35.56 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "C"
-			(at 177.8 38.1 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 181.61 42.2148 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 177.8 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 177.8 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c0e756fc-2f26-49d1-aa8a-cdc68290f0b0")
-		)
-		(pin "1"
-			(uuid "b18b1d13-1114-4612-a7cc-d6ab68597723")
-		)
-		(instances
-			(project "BB_lighting_V1"
-				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C304")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Pierrelib:SW_TL3305AF160QG")
 		(at 114.3 73.66 0)
 		(unit 1)
@@ -12613,168 +12448,6 @@
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
 					(reference "SW303")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 163.83 59.69 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9e9dd563-e38a-441d-a83c-9ea85009f38e")
-		(property "Reference" "C307"
-			(at 158.242 62.23 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C"
-			(at 163.576 57.404 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 164.7952 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 163.83 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 163.83 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "b194a75c-c415-43ec-8b22-42321adc6e5b")
-		)
-		(pin "1"
-			(uuid "d59d83a6-dad8-4436-99d7-e8062c20ec67")
-		)
-		(instances
-			(project "BB_lighting_V1"
-				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C307")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 218.44 59.69 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9fa0d63e-3ab8-4241-a74c-3e1d5c3845ad")
-		(property "Reference" "C314"
-			(at 219.075 57.15 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C"
-			(at 216.662 53.594 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 219.4052 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 218.44 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 218.44 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a67a88bd-78a7-4133-b8fb-2b028b2035e6")
-		)
-		(pin "1"
-			(uuid "1b70e4dd-845f-45b2-aa9e-5c484d9962ad")
-		)
-		(instances
-			(project "BB_lighting_V1"
-				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C314")
 					(unit 1)
 				)
 			)
@@ -12940,7 +12613,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 186.69 59.69 0)
+		(at 163.83 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12948,9 +12621,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "a3cd5538-c1b7-4c54-98fe-02e9ddf30126")
-		(property "Reference" "C309"
-			(at 187.325 57.15 0)
+		(uuid "a2887e35-b30c-4969-8263-54c03f0dc109")
+		(property "Reference" "C307"
+			(at 158.242 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12960,19 +12633,19 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 184.912 53.594 0)
+		(property "Value" "100nF"
+			(at 163.576 57.404 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 187.6552 63.5 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 164.7952 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12983,7 +12656,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 59.69 0)
+			(at 163.83 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12994,7 +12667,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 186.69 59.69 0)
+			(at 163.83 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13005,15 +12678,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "1fe64f77-3211-434e-b0a4-d533715c6cb2")
+			(uuid "602ee943-58cd-4f91-b34e-4af35b73e454")
 		)
 		(pin "1"
-			(uuid "88cd7154-722f-44ce-add0-3be93fb4af80")
+			(uuid "6dd0bdfd-b97a-469f-8ccd-5f10c1bf9769")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C309")
+					(reference "C307")
 					(unit 1)
 				)
 			)
@@ -13261,7 +12934,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 264.16 20.32 270)
+		(at 267.97 48.26 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13270,29 +12943,31 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a815968a-294c-4fdd-bfe2-3baebda9d35c")
-		(property "Reference" "R301"
-			(at 264.16 13.97 90)
+		(uuid "ad64fe5f-2115-44e1-8971-a49019b40245")
+		(property "Reference" "R309"
+			(at 270.51 46.9899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "R"
-			(at 264.16 16.51 90)
+		(property "Value" "100k"
+			(at 270.51 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 264.16 18.542 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 269.748 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13303,7 +12978,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 264.16 20.32 0)
+			(at 267.97 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13314,7 +12989,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 264.16 20.32 0)
+			(at 267.97 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13324,16 +12999,16 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "29e4e1db-aec9-4bd4-8fd2-f3578144906f")
-		)
 		(pin "2"
-			(uuid "929e9990-bf23-40bc-b243-932d33f84a89")
+			(uuid "8e57fc43-ed26-46a4-ba1a-9a0b0b0542c1")
+		)
+		(pin "1"
+			(uuid "2a700aa9-b72e-4a01-a5d9-101c678fd67d")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R301")
+					(reference "R309")
 					(unit 1)
 				)
 			)
@@ -13724,7 +13399,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 71.12 30.48 0)
+		(at 88.9 40.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13733,9 +13408,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "bbdfc713-51aa-495d-b5a5-0a69111d2b63")
-		(property "Reference" "R302"
-			(at 73.66 29.2099 0)
+		(uuid "bbf0af08-855b-4a15-8fd4-2d3d56df78a5")
+		(property "Reference" "R306"
+			(at 91.44 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13745,8 +13420,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 73.66 31.7499 0)
+		(property "Value" "100k"
+			(at 91.44 41.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13756,8 +13431,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 69.342 30.48 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 87.122 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13768,7 +13443,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 30.48 0)
+			(at 88.9 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13779,7 +13454,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 71.12 30.48 0)
+			(at 88.9 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13790,96 +13465,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "8204ca8c-d3c9-4922-9fbd-019c3e204781")
+			(uuid "0727a001-5e30-48ac-b5a4-a5d32f546803")
 		)
 		(pin "1"
-			(uuid "a53eaf39-ffab-4d36-9f2a-f6bf08f0ba01")
+			(uuid "88ae444e-d2dd-41ff-8127-9037ee9f79a3")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R302")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 41.91 77.47 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "bd7e880e-8f3a-4749-ba20-35af8c3cf821")
-		(property "Reference" "R313"
-			(at 35.56 76.454 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "R"
-			(at 35.56 78.994 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 43.688 77.47 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 41.91 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 41.91 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "00f172eb-4839-4ad7-9320-e346033bba2d")
-		)
-		(pin "1"
-			(uuid "ce672334-b9d2-4b3a-87e9-7833a23d629e")
-		)
-		(instances
-			(project "BB_lighting_V1"
-				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R313")
+					(reference "R306")
 					(unit 1)
 				)
 			)
@@ -13965,8 +13559,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 44.45 77.47 180)
+		(lib_id "Device:C")
+		(at 147.32 29.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13975,31 +13569,31 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "c1300dd1-68b6-4cd1-9cfe-415d6ba43096")
-		(property "Reference" "R314"
-			(at 46.99 76.1999 0)
+		(uuid "bdc66cab-897c-4179-b0d2-8b26ad73e60a")
+		(property "Reference" "C301"
+			(at 151.13 27.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 46.99 78.7399 0)
+		(property "Value" "10µF"
+			(at 151.13 30.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 46.228 77.47 90)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 148.2852 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14010,7 +13604,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 44.45 77.47 0)
+			(at 147.32 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14020,8 +13614,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 44.45 77.47 0)
+		(property "Description" "Unpolarized capacitor"
+			(at 147.32 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14032,15 +13626,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "88c2bdd2-6d9d-4a80-80ad-72da6f22cc39")
+			(uuid "1c09e80e-c59e-4154-a477-7b303a9b2a03")
 		)
 		(pin "1"
-			(uuid "7dde8f41-84f0-44e6-9a49-da2efeed96af")
+			(uuid "d387323a-90de-4eaf-8bd3-ceec016367fc")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R314")
+					(reference "C301")
 					(unit 1)
 				)
 			)
@@ -14282,6 +13876,248 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 156.21 59.69 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c8c672d1-eae6-4cb0-9e9a-ce967ec5e5f0")
+		(property "Reference" "C306"
+			(at 155.575 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 155.956 57.404 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 155.2448 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 156.21 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "77488ed2-21ca-4930-8ad4-192495f97c96")
+		)
+		(pin "1"
+			(uuid "f9de57d0-c513-4717-9c23-a5a614a18bfa")
+		)
+		(instances
+			(project "BB_lighting_V1"
+				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
+					(reference "C306")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 177.8 43.18 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cda074af-a832-420e-8501-738b99736bec")
+		(property "Reference" "C304"
+			(at 177.8 35.56 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1µF"
+			(at 177.8 38.1 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 181.61 42.2148 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 177.8 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 177.8 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c8d54686-baf9-48da-8629-3c9b4d578496")
+		)
+		(pin "1"
+			(uuid "0b94a770-8f09-414b-b6aa-e3ebdf0ca80d")
+		)
+		(instances
+			(project "BB_lighting_V1"
+				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
+					(reference "C304")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 218.44 59.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ce9f57fd-c83f-4668-9ca1-37c5facf5130")
+		(property "Reference" "C314"
+			(at 219.075 57.15 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 216.662 53.594 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 219.4052 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 218.44 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 218.44 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a97e719c-ce7f-451c-8a59-653e79f176e1")
+		)
+		(pin "1"
+			(uuid "d8e5e8f5-1a11-4ccd-9112-88d9d4d046bd")
+		)
+		(instances
+			(project "BB_lighting_V1"
+				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
+					(reference "C314")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 71.12 44.45 0)
 		(unit 1)
@@ -14439,8 +14275,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 160.02 43.18 90)
+		(lib_id "Device:R")
+		(at 124.46 73.66 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14448,10 +14284,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d2ead781-472c-4b4f-8ad9-095379dfd332")
-		(property "Reference" "C303"
-			(at 160.02 35.56 90)
+		(uuid "d452efe7-28f5-42f6-9abf-bb604fe350c8")
+		(property "Reference" "R312"
+			(at 124.46 68.834 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14460,8 +14295,8 @@
 				)
 			)
 		)
-		(property "Value" "C"
-			(at 160.02 38.1 90)
+		(property "Value" "1k"
+			(at 124.46 71.374 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14470,8 +14305,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 163.83 42.2148 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 124.46 71.882 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14482,7 +14317,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 43.18 0)
+			(at 124.46 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14492,8 +14327,8 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 160.02 43.18 0)
+		(property "Description" "Resistor"
+			(at 124.46 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14504,15 +14339,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "ebab6acf-9c7e-48ef-99ba-235eb6c341b8")
+			(uuid "278e0962-b442-4327-94f9-b9123cd81111")
 		)
 		(pin "1"
-			(uuid "51f98a08-cbb7-4502-9ace-e6940d6197c6")
+			(uuid "6b9106d4-16e1-4e28-bb10-fbeef094fe8d")
 		)
 		(instances
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C303")
+					(reference "R312")
 					(unit 1)
 				)
 			)
@@ -14598,6 +14433,168 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 199.39 59.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d5768f1d-2c38-4642-9b59-9ef0e6e000d8")
+		(property "Reference" "C311"
+			(at 200.025 57.15 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 197.612 53.594 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 200.3552 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 199.39 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "09a7be78-a70b-49b8-b397-72eaef7aee47")
+		)
+		(pin "1"
+			(uuid "3f6c050c-c8da-4793-930b-d3ddaa690213")
+		)
+		(instances
+			(project "BB_lighting_V1"
+				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
+					(reference "C311")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 186.69 59.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d64a8755-41e5-4364-bcb5-0c6875e261a5")
+		(property "Reference" "C309"
+			(at 187.325 57.15 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 184.912 53.594 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 187.6552 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 186.69 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 186.69 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b42584b2-1e80-4a18-a868-7e573989879e")
+		)
+		(pin "1"
+			(uuid "0b876190-7e87-41bb-8ebf-1c0e51dbe5e0")
+		)
+		(instances
+			(project "BB_lighting_V1"
+				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
+					(reference "C309")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 88.9 19.05 0)
 		(unit 1)
@@ -14670,6 +14667,86 @@
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
 					(reference "#PWR0301")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 45.72 45.72 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dc7d3786-73ab-4698-b531-94a0e3ece34a")
+		(property "Reference" "R308"
+			(at 45.72 49.53 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5.1k"
+			(at 45.72 52.07 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 45.72 47.498 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 45.72 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 45.72 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2706a19d-bb65-4c2e-af83-022a115eb5d2")
+		)
+		(pin "1"
+			(uuid "a38fb97f-50d6-4446-8fc3-c7cdc2aeac9c")
+		)
+		(instances
+			(project "BB_lighting_V1"
+				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
+					(reference "R308")
 					(unit 1)
 				)
 			)
@@ -14833,6 +14910,88 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 123.19 60.96 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e44cc678-691f-423a-aa69-8f3140b850b6")
+		(property "Reference" "R311"
+			(at 125.73 59.6899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 125.73 62.2299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 124.968 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 123.19 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "caf7aa00-32c1-44ea-af67-bd9be236b753")
+		)
+		(pin "1"
+			(uuid "6a8c1065-7cdd-47c8-b042-f528b0a7df3f")
+		)
+		(instances
+			(project "BB_lighting_V1"
+				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
+					(reference "R311")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 80.01 20.32 90)
 		(unit 1)
 		(body_style 1)
@@ -14906,169 +15065,6 @@
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
 					(reference "R316")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 71.12 40.64 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e8253ba9-d1de-42d2-9e8c-02df466ce9b4")
-		(property "Reference" "R305"
-			(at 73.66 39.3699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R"
-			(at 73.66 41.9099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 69.342 40.64 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 71.12 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 71.12 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "ffc17a8d-3da1-4551-ba64-d6bf96ae41fb")
-		)
-		(pin "1"
-			(uuid "cd9e13e5-2524-481f-a716-c2ff9adef891")
-		)
-		(instances
-			(project "BB_lighting_V1"
-				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "R305")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 156.21 59.69 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e8e1e94e-80e9-4025-8f9c-cd7e06695078")
-		(property "Reference" "C306"
-			(at 155.575 62.23 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C"
-			(at 155.956 57.404 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 155.2448 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 156.21 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 156.21 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "5c4c1c39-be36-4845-a888-13b633a8aa9a")
-		)
-		(pin "1"
-			(uuid "ebfd5d62-26c7-4015-9028-757fd8cdef13")
-		)
-		(instances
-			(project "BB_lighting_V1"
-				(path "/ebdc5608-8877-4853-8afc-12eb95545037/67417c11-5689-4215-9aec-880b2c224ee8"
-					(reference "C306")
 					(unit 1)
 				)
 			)
@@ -15284,7 +15280,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "fb15ec64-64d7-41df-8a82-e32e1f28ccd5")
+		(uuid "fdaa7534-61d8-46cd-ba07-54c0e2dc0371")
 		(property "Reference" "C313"
 			(at 212.725 57.15 0)
 			(show_name no)
@@ -15296,7 +15292,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 210.312 53.594 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15307,7 +15303,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 213.0552 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -15341,10 +15337,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "990748fb-66e4-47e7-8b27-c17d3805447f")
+			(uuid "5309d4ad-eb71-4bfc-8a41-7aebb015d458")
 		)
 		(pin "1"
-			(uuid "729399d7-d745-4a56-ace4-5f88b84abd85")
+			(uuid "b6574a82-a39e-47b8-a442-d98bb473c907")
 		)
 		(instances
 			(project "BB_lighting_V1"
