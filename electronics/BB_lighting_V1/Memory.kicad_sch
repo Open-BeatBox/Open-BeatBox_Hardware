@@ -1330,7 +1330,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4462bd60-9420-4ed3-9aa4-d91791415bc0")
+		(uuid "61c5a723-c609-4979-81da-df55b986b27a")
 		(property "Reference" "R201"
 			(at 132.08 64.77 90)
 			(show_name no)
@@ -1341,7 +1341,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 132.08 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1351,7 +1351,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 132.08 69.342 90)
 			(hide yes)
 			(show_name no)
@@ -1385,10 +1385,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9dabea71-03b0-485f-bdd0-5aaaa32d78bc")
+			(uuid "9e2ee23e-1ea4-4f3d-9fb7-4f10cc426c5e")
 		)
 		(pin "2"
-			(uuid "fcf3acaf-0a36-41a0-884e-de607e61a529")
+			(uuid "435b9936-13ca-4246-8970-c9a0119db9ec")
 		)
 		(instances
 			(project "BB_lighting_V1"
@@ -1472,88 +1472,6 @@
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/ce50e6a2-9e83-41d6-b375-67021e7fdd69"
 					(reference "#PWR0202")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 115.57 85.09 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8b03c992-d4c1-400b-9f8e-13b7a99e6f5a")
-		(property "Reference" "C201"
-			(at 111.76 83.8199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C"
-			(at 111.76 86.3599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 114.6048 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 115.57 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 115.57 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e24b625a-a147-4570-a632-dc1178494359")
-		)
-		(pin "2"
-			(uuid "66cf3ab3-d99d-42bc-9fe8-0c79f9299515")
-		)
-		(instances
-			(project "BB_lighting_V1"
-				(path "/ebdc5608-8877-4853-8afc-12eb95545037/ce50e6a2-9e83-41d6-b375-67021e7fdd69"
-					(reference "C201")
 					(unit 1)
 				)
 			)
@@ -1686,6 +1604,88 @@
 			(project "BB_lighting_V1"
 				(path "/ebdc5608-8877-4853-8afc-12eb95545037/ce50e6a2-9e83-41d6-b375-67021e7fdd69"
 					(reference "U201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 115.57 85.09 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eaa95392-f47f-423c-abc2-44505f1e4d01")
+		(property "Reference" "C201"
+			(at 111.76 83.8199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 111.76 86.3599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 114.6048 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 115.57 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d9cfed5e-2e95-4c9e-8a31-b84106b8870b")
+		)
+		(pin "2"
+			(uuid "6c60a12f-25de-4d2c-8797-210948e73a96")
+		)
+		(instances
+			(project "BB_lighting_V1"
+				(path "/ebdc5608-8877-4853-8afc-12eb95545037/ce50e6a2-9e83-41d6-b375-67021e7fdd69"
+					(reference "C201")
 					(unit 1)
 				)
 			)

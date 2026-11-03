@@ -43,9 +43,6 @@ one `.DXF` under `lighting/`). Alongside the modules:
 | `structure/` | base plate `.DXF` and pillar `.STL` |
 | `final_assembly/` | `.zip` archive of the complete assembly |
 
-`mechanical/README.md` is an unfilled changelog template carried over from the
-source repository.
-
 ## `electronics/`
 
 One KiCad project per PCB (`BB_RPI_shield_V1`, `BB_feeder_main_V1`,
@@ -56,11 +53,16 @@ BOM, pick-and-place files and IPC netlist. `STEPs/` has 3D models of the
 boards and `pictures/` has renders. See
 [`electronics/README.md`](./electronics/README.md) for what each board does.
 
+Component datasheets are not included: they are the manufacturers' documents,
+available from their websites (the BOM in each `production/` folder names the
+parts).
+
 ## Large files
 
 `.zip` and `.STEP` files are stored with [Git LFS](https://git-lfs.com/).
 Install it before cloning (`git lfs install`), or those files will arrive as
-small pointer files.
+small pointer files. Release archives and the Zenodo record contain the full
+files.
 
 ## History
 
@@ -74,6 +76,12 @@ see a file's history across the renames.
 
 CERN Open Hardware Licence Version 2 — Strongly Reciprocal
 (**CERN-OHL-S-2.0**). See [`LICENSE`](./LICENSE).
+
+## Citing
+
+If you use these designs, please cite them with the metadata in
+[`CITATION.cff`](./CITATION.cff) (GitHub's *Cite this repository* button). Each
+release is archived on Zenodo with its own DOI.
 
 ## Project links
 
