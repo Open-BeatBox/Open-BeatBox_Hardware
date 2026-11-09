@@ -79,9 +79,24 @@ CERN Open Hardware Licence Version 2 — Strongly Reciprocal
 
 ## Citing
 
-If you use these designs, please cite them with the metadata in
-[`CITATION.cff`](./CITATION.cff) (GitHub's *Cite this repository* button). Each
-release is archived on Zenodo with its own DOI.
+If you use these designs in published work, please cite **both**:
+
+1. the reference preprint of the platform:
+
+   > Euvrard M, Benzina N, Domingues D, Mondragón-González SL, Huzard D, Penderia G, Travert-Jouanneau Y, Lavielle O, Lousada E, Schreiweis C, Lorenz A, Pavlov P, Ajili Z, Lebegue L, Tissier P, Burguière E. "Open-BEATBox: an open-source autonomous operant chamber for high-throughput data acquisition of complex behaviour." bioRxiv, 2026 (DOI to be added when the preprint is posted).
+
+2. the Zenodo record of the release you used. Each release of this repository
+   is archived on Zenodo with its own DOI; the version described in the
+   preprint is release `biorxiv-v1` (DOI: to be added once release `biorxiv-v1`
+   is published on Zenodo). `CITATION.cff` carries the metadata (GitHub's
+   *Cite this repository* button).
+
+## Related repositories
+
+- [Open-BeatBox_Software](https://github.com/Open-BeatBox/Open-BeatBox_Software) — PC application and module firmware (AGPL-3.0-or-later)
+- [Open-BeatBox_Documentation](https://github.com/Open-BeatBox/Open-BeatBox_Documentation) — manual, assembly tutorials, Master BOM (CC-BY-4.0)
+- [Open-BeatBox.github.io](https://github.com/Open-BeatBox/Open-BeatBox.github.io) — project website and manual build pipeline
+- [Open-BeatBox_Firmware](https://github.com/Open-BeatBox/Open-BeatBox_Firmware) — placeholder pointing to the firmware in the Software repository
 
 ## Project links
 
