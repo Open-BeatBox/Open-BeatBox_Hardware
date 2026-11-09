@@ -4,6 +4,14 @@ title: "Open-BEATBox Hardware: mechanical and electronics design files"
 type: dataset
 version: "biorxiv-v1"
 date-released: "2026-11-03"
+doi: "10.5281/zenodo.24080048"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24080048"
+    description: "Zenodo record of release biorxiv-v1"
+  - type: doi
+    value: "10.5281/zenodo.24080047"
+    description: "Zenodo concept DOI (resolves to the latest release)"
 abstract: "Open-BEATBox (Open - BEhavioural and AuTonomous operant Box) is an open-source, modular, low-cost platform for autonomous home-cage operant conditioning and long-duration behavioural data acquisition in rodents. This repository holds the hardware design files: CAD sources, 3D-printing and laser-cutting files, KiCad circuit boards and their manufacturing files."
 authors:
   - family-names: "Euvrard"

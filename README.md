@@ -87,8 +87,8 @@ If you use these designs in published work, please cite **both**:
 
 2. the Zenodo record of the release you used. Each release of this repository
    is archived on Zenodo with its own DOI; the version described in the
-   preprint is release `biorxiv-v1` (DOI: to be added once release `biorxiv-v1`
-   is published on Zenodo). `CITATION.cff` carries the metadata (GitHub's
+   preprint is release `biorxiv-v1` (DOI [10.5281/zenodo.24080048](https://doi.org/10.5281/zenodo.24080048);
+   all versions: [10.5281/zenodo.24080047](https://doi.org/10.5281/zenodo.24080047)). `CITATION.cff` carries the metadata (GitHub's
    *Cite this repository* button).
 
 ## Related repositories
